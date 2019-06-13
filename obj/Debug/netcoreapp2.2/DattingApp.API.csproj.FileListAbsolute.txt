@@ -12,3 +12,17 @@ C:\Users\Evonious22\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.Assembl
 C:\Users\Evonious22\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.RazorTargetAssemblyInfo.cache
 C:\Users\Evonious22\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.dll
 C:\Users\Evonious22\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.pdb
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\bin\Debug\netcoreapp2.2\DattingApp.API.deps.json
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\bin\Debug\netcoreapp2.2\DattingApp.API.runtimeconfig.json
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\bin\Debug\netcoreapp2.2\DattingApp.API.runtimeconfig.dev.json
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\bin\Debug\netcoreapp2.2\DattingApp.API.dll
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\bin\Debug\netcoreapp2.2\DattingApp.API.pdb
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.csprojAssemblyReference.cache
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.RazorAssemblyInfo.cache
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.RazorAssemblyInfo.cs
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.AssemblyInfoInputs.cache
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.AssemblyInfo.cs
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.dll
+C:\Users\Evonious22\Desktop\DatttingApp bk\DatingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.pdb
